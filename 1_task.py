@@ -13,7 +13,7 @@ Date:
 13.04.2023
 
 For a quick view of the results:
-https://gitfront.io/r/user-1975026/cxq5bD8WDEfV/dat-gr-1-sub/
+https://gitfront.io/r/user-1975026/Lc9u41z4TBCD/dat-gr-2-task/
 """
 
 import numpy as np
